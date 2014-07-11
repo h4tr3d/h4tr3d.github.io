@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Second Hatred's Log Place]]></title>
   <link href="http://h4tr3d.github.io/atom.xml" rel="self"/>
   <link href="http://h4tr3d.github.io/"/>
-  <updated>2014-07-11T08:31:53+11:00</updated>
+  <updated>2014-07-11T13:10:34+11:00</updated>
   <id>http://h4tr3d.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Alexander Drozdov]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
